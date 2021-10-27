@@ -77,7 +77,7 @@ $ nest new project-name
 * tsconfig.json - 어떻게 타입스크립트를 컴파일 할지 설정.
 * tsconfig.build.json - tsconfig.json의 연장선상 파일이며 .build를 할때 필요한 설정들 "excludes"에서는 빌드할때 필요없는 파일들 명시
 * package.json - build : 운영환경을 위한 필드, format : 린트에러가 났을지 수정, start : 앱시작   
-* src폴더 - (대부분의 비즈니스 로직) - main.ts(앱을 생성하고 실행) - app.module.ts(앱 모듈을 정의?)
+* src폴더 - (대부분의 비즈니스 로직) - main.ts(앱을 생성하고 실행, 앱의 시작점) - app.module.ts(앱 모듈을 정의?)
 
 <details>
   
