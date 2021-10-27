@@ -65,6 +65,15 @@ Nest is [MIT licensed](LICENSE).
 #### Node(및 서버 측 Javascript)를 위한 훌륭한 라이브러리, 도우미 및 도구가 많이 존재하지만 이들 중 어느 것도 아키텍쳐의 주요 문제를 효과적으로 해결하지 못함.   Nest는 개발자와 팀이 고도로 테스트 가능하고 확장 가능한 애플리케이션 아키텍쳐를 제공합니다. 이 아키텍쳐는 Angular에서 크게 영감을 받음.
 ## 개발자와 팀이 고도로 테스트 가능! 테스트코드(TDD)의 장점이 강함!
 
+실행과정
+```bash
+$ npm i -g @nestjs/cli   
+$ nest new project-name
+```
+<details>
+  
+![스크린샷 2021-10-27 오후 4 01 45](https://user-images.githubusercontent.com/81910342/139016162-bda908d5-0c31-495f-8c23-6bb6105fc715.png)
+</details>
 
 
 
